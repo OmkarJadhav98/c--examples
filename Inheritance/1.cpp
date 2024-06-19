@@ -9,7 +9,7 @@ public:
     }
 
     void start() {
-        cout << "Vehicle started." << endl;
+        cout << "Vehicle started." ;
     }
 };
 
