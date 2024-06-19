@@ -29,7 +29,7 @@ public:
 class Bike : public Vehicle {
 public:
     Bike() {
-        cout << "Bike constructor called." << endl;
+        cout << "Bike constructor called.";
     }
 
     void ride() {
