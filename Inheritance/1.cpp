@@ -2,7 +2,7 @@
 using namespace std;
 
 // Base class: Vehicle
-class Vehicle {
+class Vehicl {
 public:
     Vehicle() {
         cout << "Vehicle constructor called." << endl;
