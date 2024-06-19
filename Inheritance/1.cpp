@@ -21,7 +21,7 @@ public:
     }
 
     void drive() {
-        cout << "Car is being driven." << endl;
+        cout << "Car is being driven.";
     }
 };
 
