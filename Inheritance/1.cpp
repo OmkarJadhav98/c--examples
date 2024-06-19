@@ -5,7 +5,7 @@ using namespace std;
 class Vehicle {
 public:
     Vehicle() {
-        cout << "Vehicle constructor called." << endl;
+        cout << "Vehicle constructor called.";
     }
 
     void start() {
