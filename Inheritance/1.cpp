@@ -17,7 +17,7 @@ public:
 class Car : public Vehicle {
 public:
     Car() {
-        cout << "Car constructor called." << endl;
+        cout << "Car constructor called.";
     }
 
     void drive() {
